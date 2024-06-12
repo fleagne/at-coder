@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": ".venv/bin/python",
+  "python.analysis.extraPaths": ["./.venv/lib/python3.x/site-packages"],
+  "cSpell.words": ["pyenv", "pypy", "venv"],
+  "editor.formatOnSave": true
+}
